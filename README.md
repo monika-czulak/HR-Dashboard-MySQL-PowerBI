@@ -1,6 +1,7 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image](https://github.com/monika-czulak/HR-Dashboard-MySQL-PowerBI/assets/109820128/5ec4bcbf-25e0-457c-a18a-763c0de3e3e5)
+![image](https://github.com/monika-czulak/HR-Dashboard-MySQL-PowerBI/assets/109820128/17802b3e-e61f-4604-ac02-cb61155dfaae)
+
 
 ## Data Used
 - Data - HR Data with over 22000 rows from the year 2000 to 2020
